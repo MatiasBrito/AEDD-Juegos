@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>t\t
 #include <time.h>
-
+//Cambios de ejemplo
 void Esquema();
 void Modelo(int Nro_Sec, int Nro);
 main(){
